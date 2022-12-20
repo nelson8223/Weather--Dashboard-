@@ -18,7 +18,7 @@ p.desc{
 
 }
 
-.city{
+#weather-results{
     text-align: center;
     margin: 5px;
     border-style: double;
