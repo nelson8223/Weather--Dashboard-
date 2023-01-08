@@ -32,3 +32,42 @@ p.desc{
     border-width: 5px 5px 5px 5px;
     font-size: 19px;
 }
+
+img{
+    width: 25%;
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h4{
+    text-align: center;
+    font-size: x-large;
+
+}
+
+
+.test {
+color: black;
+border-radius: 100px solid blue;
+border-width: 1000%;
+border-style:outset;
+height: 200px;
+padding: 60px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+
+}
+
+.weatherL {
+
+    display: flex;
+    border: 40px;
+}
+
+
+
